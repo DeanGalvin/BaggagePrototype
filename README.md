@@ -1,2 +1,2 @@
-# BaggagePrototype
-A game about the things we hold on to, even when we don't want to.
+# Baggage Prototype
+Placeholder, less cringey sub-title.
